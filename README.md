@@ -1,2 +1,2 @@
-# ESP8266_Sensors_HTTPS
-ESP8266 example project with sensors and HTTPS callbacks to Home Assistant
+# ESP8266_Sensors
+ESP8266 example project with sensors, OTA update, and HTTPS callback to Home Assistant
